@@ -4,11 +4,11 @@ const Footer = () => {
       <h1 className=" text-2xl font-bold">Portofolio.Co</h1>
       <div className=" flex gap-7">
         <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Project</a>
+        <a href="#About">About</a>
+        <a href="#Project">Project</a>
       </div>
       <div className=" flex items-center gap-3">
-        <a href="#">
+        <a href="https://github.com/rachmad-prog">
           <i className=" ri-github-fill ring-2x"></i>
         </a>
         <a href="#">
