@@ -45,7 +45,7 @@ function App() {
       </div>
 
       {/*Tentang*/}
-      <div className="tentang mt-32 py-10">
+      <div id="About" className="tentang mt-32 py-10">
         <div
           className="xl:w-2/3 lg:w3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg"
           data-aos="fade-up"
@@ -128,7 +128,7 @@ function App() {
       </div>
 
       {/*Projek*/}
-      <div className="proyek mt-32 py-10">
+      <div id="Project" className="proyek mt-32 py-10">
         <h1
           className=" text-center text-4xl font-bold mb-2"
           data-aos="fade-up"
@@ -180,7 +180,7 @@ function App() {
       </div>
 
       {/*Kontak*/}
-      <div className="kontak mt-32 sm:p-10 p-0">
+      <div id="Contact" className="kontak mt-32 sm:p-10 p-0">
         <h1
           className=" text-4xl mb-2 font-bold text-center"
           data-aos="fade-up"
@@ -248,8 +248,6 @@ function App() {
           </div>
         </form>
       </div>
-
-      {/*Footer*/}
     </>
   );
 }
