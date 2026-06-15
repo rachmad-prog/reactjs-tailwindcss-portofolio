@@ -34,17 +34,17 @@ const Navbar = () => {
           </a>
         </li>
         <li>
-          <a href="#" className="sm:text-lg text-base font-medium">
+          <a href="#About" className="sm:text-lg text-base font-medium">
             About
           </a>
         </li>
         <li>
-          <a href="#" className="sm:text-lg text-base font-medium">
+          <a href="#Project" className="sm:text-lg text-base font-medium">
             Project
           </a>
         </li>
         <li>
-          <a href="#" className="sm:text-lg text-base font-medium">
+          <a href="#Contact" className="sm:text-lg text-base font-medium">
             Contact
           </a>
         </li>
